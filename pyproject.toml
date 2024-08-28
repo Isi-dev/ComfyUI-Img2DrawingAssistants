@@ -1,7 +1,7 @@
 [project]
 name = "comfyui-img2drawingassistants"
 description = "These are ComfyUI nodes to assist in converting an image to sketches or lineArts."
-version = "1.1.0"
+version = "1.0.0"
 license = {file = "LICENSE"}
 dependencies = ["torch", "numpy", "opencv-python"]
 
