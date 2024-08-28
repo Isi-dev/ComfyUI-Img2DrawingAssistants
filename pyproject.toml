@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-img2drawingassistants"
+description = "These are ComfyUI nodes to assist in converting an image to sketches or lineArts."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["torch", "numpy", "opencv-python"]
+
+[project.urls]
+Repository = "https://github.com/Isi-dev/ComfyUI-Img2DrawingAssistants"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Img2DrawingAssistants"
+Icon = ""
