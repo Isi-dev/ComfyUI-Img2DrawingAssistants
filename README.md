@@ -63,7 +63,13 @@ A Workflow (Img2DrawingAssistantsWorkflow.json) with all four Nodes can be found
 
 - >You can also connect a lineArt preprocessor to the LineArt2LineArt Assistant node and modify as you please.
 
-- >You can install these nodes with the ComfyUI Manager. Search by entering-> ComfyUI-Img2DrawingAssistants.
+- >You can install these nodes with the ComfyUI Manager. Search by entering:
+
+
+     ```
+     ComfyUI-Img2DrawingAssistants
+
+     ```
 
 I will release a video on using these nodes soon.
 
