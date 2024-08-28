@@ -22,7 +22,7 @@ The Img2Sketch Assistant node converts images to both grayscale and colored sket
 
 ## Img2LineArt Assistant
 
-The Img2LineArt Assistant node converts images to colored sketches.
+The Img2LineArt Assistant node converts images to colored lineArts.
 
 <div align="center">
 
@@ -59,7 +59,7 @@ A Workflow (Img2DrawingAssistantsWorkflow.json) with all four Nodes can be found
 
 **<font color=red> Note </font>**:
 
-- >These nodes are to assist you in converting images to sketches or lineArts. The quality of the outputs depends on the quality of the input. You may need to make modifications to the output sketches or lineArts.
+- >These nodes are to assist you in converting images to sketches or lineArts. The quality of the output depends on the quality of the input. You may need to make modifications to the output sketches or lineArts.
 
 - >You can also connect a lineArt preprocessor to the LineArt2LineArt Assistant node and modify as you please.
 
