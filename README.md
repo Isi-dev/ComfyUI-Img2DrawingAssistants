@@ -71,7 +71,7 @@ A Workflow (Img2DrawingAssistantsWorkflow.json) with all four Nodes can be found
 
      ```
 
-I will release a video on using these nodes soon.
+You can watch a video on using the nodes [here](https://youtu.be/hYohYp07GLE) 
 
 ## Disclaimer
  
