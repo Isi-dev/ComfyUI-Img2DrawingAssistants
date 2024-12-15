@@ -73,6 +73,10 @@ A Workflow (Img2DrawingAssistantsWorkflow.json) with all four Nodes can be found
 
 You can watch a video on using the nodes [here](https://youtu.be/hYohYp07GLE) 
 
+## Support
+If you find this project helpful, you can support me here:  
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-orange?style=flat-square&logo=buy-me-a-coffee)](https://buymeacoffee.com/isiomo)
+
 ## Disclaimer
  
 I am not responsible for any user-generated content. Users are fully responsible for their actions when using these nodes. I don't have any legal affiliation with or accountability for users' behaviors. It is crucial to use these nodes responsibly, following both ethical and legal standards.
